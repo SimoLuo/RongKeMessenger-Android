@@ -12,7 +12,9 @@ RongKeMessenger for Android(融科通Android端源码)
 
 #### 1、修改AndroidManifest.xml <br>
 在AndroidManifest.xml文件中将
-   <meta-data android:name="RKCLOUD_KEY" android:value="您应用App的客户端秘钥" /> 
+```Java
+<meta-data android:name="RKCLOUD_KEY" android:value="您应用App的客户端秘钥" /> //Java
+```
 中的value值改为您应用的客户端秘钥。
 
 #### 2、修改HttpApi <br>
