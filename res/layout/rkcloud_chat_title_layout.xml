@@ -15,7 +15,7 @@
         android:paddingRight="20dp"
         android:text="@string/bnt_return"
         android:textColor="@color/title_content"
-        android:textSize="@dimen/rkcloud_chat_titlezone_title_textsize" />
+        android:textSize="@dimen/rkcloud_chat_setting_item_tip_textsize" />
     <TextView
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
@@ -23,7 +23,7 @@
             android:paddingLeft="60dp"
             android:paddingRight="60dp"
             android:textColor="@color/title_text_color"
-            android:textSize="19sp"
+            android:textSize="@dimen/rkcloud_chat_titlezone_title_textsize"
             android:ellipsize="middle"
             android:gravity="center"
             android:singleLine="true"
@@ -93,9 +93,9 @@
             android:layout_gravity="center_vertical"
             android:layout_height="wrap_content"
             android:layout_marginRight="8dip"
-            android:minWidth="70dip"
+            android:minWidth="@dimen/rkcloud_chat_titlezone_rightbtn_minwidth"
             android:gravity="center_vertical"
-            android:textSize="@dimen/setting_about_content_textsize"
+            android:textSize="@dimen/rkcloud_chat_setting_item_tip_textsize"
             android:visibility="gone" />
     </LinearLayout>
 

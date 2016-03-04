@@ -3,7 +3,7 @@
     package="com.rongkecloud.test"
     android:installLocation="auto"
     android:versionCode="2"
-    android:versionName="2.2.9" >
+    android:versionName="2.2.10" >
 
     <uses-sdk
         android:minSdkVersion="11"

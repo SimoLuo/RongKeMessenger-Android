@@ -3,7 +3,7 @@
 
     <!-- title区域相关尺寸的定义 -->
     <dimen name="rkcloud_chat_titlezone_height">48dip</dimen>
-    <dimen name="rkcloud_chat_titlezone_title_textsize">19sp</dimen>
+    <dimen name="rkcloud_chat_titlezone_title_textsize">17sp</dimen>
     <dimen name="rkcloud_chat_titlezone_title_paddingleft">8dip</dimen>
     <dimen name="rkcloud_chat_titlezone_rightbtn_minwidth">50dip</dimen>
     <dimen name="rkcloud_chat_listview_item_paddingleft">8dip</dimen>
